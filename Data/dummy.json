@@ -1,0 +1,202 @@
+[
+   {
+     "id":1,
+     "title":"Choices",
+     "poster_path":"http://dummyimage.com/106x100.png/ff4444/ffffff",
+     "description":"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+     "background_poster":"https://picsum.photos/1000/250",
+     "rating":6,
+     "view_count":47,
+     "genres":"Drama|Horror|Drama|Horror|Drama|Horror"
+   },
+   {
+     "id":2,
+     "title":"Grimm Love (Rohtenburg)",
+     "poster_path":"http://dummyimage.com/243x100.png/ff4444/ffffff",
+     "description":"Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+     "background_poster":"https://picsum.photos/1000/250",
+     "rating":7.4,
+     "view_count":47,
+     "genres":"Drama|Horror"
+   },
+   {
+     "id":3,
+     "title":"Only Son, The (Hitori musuko)",
+     "poster_path":"http://dummyimage.com/175x100.png/ff4444/ffffff",
+     "description":"Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+     "background_poster":"https://picsum.photos/1000/250",
+     "rating":9.6,
+     "view_count":11,
+     "genres":"Drama"
+   },
+   {
+     "id":4,
+     "title":"Darkest Hour, The",
+     "poster_path":"http://dummyimage.com/151x100.png/ff4444/ffffff",
+     "description":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+     "background_poster":"https://picsum.photos/1000/250",
+     "rating":3.4,
+     "view_count":90,
+     "genres":"Action|Horror|Sci-Fi|Thriller"
+   },
+   {
+     "id":5,
+     "title":"Yearling, The",
+     "poster_path":"http://dummyimage.com/123x100.png/5fa2dd/ffffff",
+     "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+     "background_poster":"http://dummyimage.com/824x.png/dddddd/000000",
+     "rating":1.2,
+     "view_count":17,
+     "genres":"Children|Drama"
+   },
+   {
+     "id":6,
+     "title":"Schizopolis",
+     "poster_path":"http://dummyimage.com/165x100.png/cc0000/ffffff",
+     "description":"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+     "background_poster":"http://dummyimage.com/1064x.png/cc0000/ffffff",
+     "rating":7.7,
+     "view_count":79,
+     "genres":"Comedy"
+   },
+   {
+     "id":7,
+     "title":"All the Little Animals",
+     "poster_path":"http://dummyimage.com/142x100.png/ff4444/ffffff",
+     "description":"Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+     "background_poster":"http://dummyimage.com/897x.png/5fa2dd/ffffff",
+     "rating":6.6,
+     "view_count":77,
+     "genres":"Drama|Thriller"
+   },
+   {
+     "id":8,
+     "title":"Bloody Mama",
+     "poster_path":"http://dummyimage.com/193x100.png/5fa2dd/ffffff",
+     "description":"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+     "background_poster":"http://dummyimage.com/785x.png/5fa2dd/ffffff",
+     "rating":9,
+     "view_count":79,
+     "genres":"Crime|Drama"
+   },
+   {
+     "id":9,
+     "title":"Coco Chanel & Igor Stravinsky",
+     "poster_path":"http://dummyimage.com/173x100.png/5fa2dd/ffffff",
+     "description":"Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+     "background_poster":"http://dummyimage.com/1016x.png/ff4444/ffffff",
+     "rating":9.8,
+     "view_count":25,
+     "genres":"Drama|Romance"
+   },
+   {
+     "id":10,
+     "title":"Numb",
+     "poster_path":"http://dummyimage.com/128x100.png/cc0000/ffffff",
+     "description":"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+     "background_poster":"http://dummyimage.com/764x.png/cc0000/ffffff",
+     "rating":6.3,
+     "view_count":99,
+     "genres":"Comedy|Drama|Romance"
+   },
+   {
+     "id":11,
+     "title":"Assault on Wall Street ",
+     "poster_path":"http://dummyimage.com/111x100.png/5fa2dd/ffffff",
+     "description":"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+     "background_poster":"http://dummyimage.com/874x.png/5fa2dd/ffffff",
+     "rating":5.7,
+     "view_count":15,
+     "genres":"Drama|Thriller"
+   },
+   {
+     "id":12,
+     "title":"Guy Thing, A",
+     "poster_path":"http://dummyimage.com/190x100.png/5fa2dd/ffffff",
+     "description":"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+     "background_poster":"http://dummyimage.com/988x.png/5fa2dd/ffffff",
+     "rating":7.3,
+     "view_count":56,
+     "genres":"Comedy|Romance"
+   },
+   {
+     "id":13,
+     "title":"Zatoichi's Revenge (Zatôichi nidan-kiri) (Zatôichi 10)",
+     "poster_path":"http://dummyimage.com/127x100.png/ff4444/ffffff",
+     "description":"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+     "background_poster":"http://dummyimage.com/874x.png/cc0000/ffffff",
+     "rating":4.9,
+     "view_count":51,
+     "genres":"Action|Drama"
+   },
+   {
+     "id":14,
+     "title":"Colorado Avenue",
+     "poster_path":"http://dummyimage.com/244x100.png/5fa2dd/ffffff",
+     "description":"Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+     "background_poster":"http://dummyimage.com/951x.png/5fa2dd/ffffff",
+     "rating":9.8,
+     "view_count":62,
+     "genres":"Drama"
+   },
+   {
+     "id":15,
+     "title":"Kick-Ass",
+     "poster_path":"http://dummyimage.com/127x100.png/ff4444/ffffff",
+     "description":"In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+     "background_poster":"http://dummyimage.com/771x.png/dddddd/000000",
+     "rating":6.5,
+     "view_count":69,
+     "genres":"Action|Comedy"
+   },
+   {
+     "id":16,
+     "title":"Lost Reels of Pancho Villa, The (Los rollos perdidos de Pancho Villa)",
+     "poster_path":"http://dummyimage.com/146x100.png/cc0000/ffffff",
+     "description":"Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+     "background_poster":"http://dummyimage.com/774x.png/ff4444/ffffff",
+     "rating":5.8,
+     "view_count":19,
+     "genres":"Documentary"
+   },
+   {
+     "id":17,
+     "title":"That Night in Varennes (Nuit de Varennes, La)",
+     "poster_path":"http://dummyimage.com/180x100.png/5fa2dd/ffffff",
+     "description":"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+     "background_poster":"http://dummyimage.com/942x.png/cc0000/ffffff",
+     "rating":4.3,
+     "view_count":47,
+     "genres":"Drama"
+   },
+   {
+     "id":18,
+     "title":"Iran Is Not the Problem",
+     "poster_path":"http://dummyimage.com/156x100.png/cc0000/ffffff",
+     "description":"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+     "background_poster":"http://dummyimage.com/1075x.png/5fa2dd/ffffff",
+     "rating":1.3,
+     "view_count":52,
+     "genres":"Documentary"
+   },
+   {
+     "id":19,
+     "title":"13Hrs",
+     "poster_path":"http://dummyimage.com/195x100.png/ff4444/ffffff",
+     "description":"In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+     "background_poster":"http://dummyimage.com/869x.png/ff4444/ffffff",
+     "rating":3.4,
+     "view_count":20,
+     "genres":"Adventure|Mystery"
+   },
+   {
+     "id":20,
+     "title":"Quest, The",
+     "poster_path":"http://dummyimage.com/128x100.png/cc0000/ffffff",
+     "description":"In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+     "background_poster":"http://dummyimage.com/994x.png/ff4444/ffffff",
+     "rating":7.6,
+     "view_count":37,
+     "genres":"Action|Adventure"
+   }
+ ]
